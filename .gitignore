@@ -1,2 +1,5 @@
 
 training_dict.pt
+*.DESKTOP-RDN7GBT
+*.ckpt
+*.yaml
